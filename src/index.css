@@ -5,6 +5,9 @@
   padding: 0;
   color: #393c41;
 }
+html {
+  scroll-behavior: smooth;
+}
 
 body {
   width: 100%;
